@@ -8,6 +8,9 @@
 /.bundle
 .secret
 .DS_Store
+.gitignore
+*.ru
+.rspec
 
 # Ignore the default SQLite database.
 /db/*.sqlite3
