@@ -1,4 +1,5 @@
-== README
+# Rails Gone Awry
+_My take on the infamous [Hartle Tutorial](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book)_
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
