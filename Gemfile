@@ -9,6 +9,7 @@ group :development, :test do
   gem 'sqlite3', '1.3.8'
   gem 'rspec-rails', '2.13.1'
   gem 'guard-rspec', '2.5.0'
+  gem 'factory_girl_rails', '4.2.1'
 end
 
 # terminal-notifier-guard is a replacement for the old 'growl' gem on OSX
